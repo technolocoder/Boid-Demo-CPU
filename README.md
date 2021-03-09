@@ -1,2 +1,2 @@
 # Boid-Demo-CPU
-Simple Boid Program (SDL)
+Simple Boid Program implemented in C++. 
